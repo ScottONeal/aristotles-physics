@@ -19,4 +19,14 @@ There are 9 primary conclusions that are proposed in Physics. It would appear th
 
 #### II Aristotle's Philosophy
 
-Aristotle generally assumes that the senses can be trusted, there is a certain objectivity to the world.
+Aristotle generally assumes that the senses can be trusted, there is a certain objectivity to the world. Because of this, there is a sort of common sense aspect which Aristotle brings to room, a presentation that the _practical man_ can subscribe too.
+
+There is a lot of agreement between Empedocles and Aristotle in the four primary elements which compose the natural world (earth, water, air, and fire). However, Aristotle believes that these four elements can shift into each other, which further implies that there is a central force which unifies these elements together. Additionally, he also adds a fifth element (Ether?) which shares in dimensionality as the other four but does not share in their potentiality of motion. It should also be noted that Aristotle assumes that no two same objects can occupy the same space, and that to be an object means to be unopposed in spatial dimensionality.
+
+1) Intellect is not material (This is further expanded upon in De Anima)
+2) When a potentiality of a sensation of any kind of object and the potentiality of a mind meet, there is a psychic experience.
+3) We aught to except that matter exists in different and changing state independently of our consciousness of it.
+
+Each sense is discrete in and of itself and can deliver the following information: movement, magnitude, figure, plurality and unity. However, there appears to be an ability to couple different senses experience into a unified thing. For example, yellow honey, receives descriptions which are informed by different senses. Yellowness from the eyes, sweetness from the tongue, and stickiness from touch. With this, we can derive that there is a 'common _sense_' layered on top of the other senses which is able to associate a multitude of sense experiences and without adding it's own.
+
+Each sense is able to deliver to us, on it's own, the following aspects: movement, magnitude, figure, plurality and unity.
